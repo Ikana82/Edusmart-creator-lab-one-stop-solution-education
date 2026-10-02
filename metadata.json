@@ -1,0 +1,6 @@
+{
+  "name": "EduSmart Creator Lab",
+  "description": "Platform edukasi digital untuk membuat dan mengembangkan produk edukasi dengan AI (Worksheet, Game, Media Pembelajaran, Storybook, Flashcard, Prompt Library & AI Directory).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
